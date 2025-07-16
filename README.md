@@ -1,2 +1,2 @@
-#print the output
+# print the output
 printf("New Python file")
